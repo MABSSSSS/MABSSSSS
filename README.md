@@ -1,20 +1,10 @@
 
-<style>
-.glow {
-  font-size: 2rem;
-  font-weight: bold;
-  color: #fff;
-  text-align: center;
-  animation: glow 1.5s ease-in-out infinite alternate;
-}
 
-@keyframes glow {
-  from { text-shadow: 0 0 5px #fff, 0 0 10px #ff5733, 0 0 15px #ff5733; }
-  to { text-shadow: 0 0 10px #fff, 0 0 20px #ff4500, 0 0 30px #ff4500; }
-}
-</style>
+✨ **Muhammad Abdullah**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Muhammad+Abdullah;AI+Enthusiast+%7C+Backend+Developer+%7C+ML+Learner" />
+</p>
 
-<p class="glow">Muhammad Abdullah</p>
  
 ### 🚀 AI Enthusiastic Student|Tech Explorer | Lifelong Learner 
 

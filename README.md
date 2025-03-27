@@ -29,7 +29,7 @@
 💡 **Always in Learning Mode!**  
 ✔ **Machine Learning & Deep Learning**  
 ✔ **Python Backend Frameworks (Django, FastAPI, Flask)**  
-✔ **Data Structures & Algorithms (DSA) in C++**  
+✔ **Data Structures & Algorithms (DSA)**  
 ✔ **Generative AI & Large Language Models (LLMs)**  
 
 ---
@@ -65,10 +65,11 @@
 ---
 
 ## 🎯 **Learning Never Stops!** 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="500">
 </p>
+
+
 ---
 
 ## 📬 **Let's Connect!**  

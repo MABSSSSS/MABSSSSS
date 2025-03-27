@@ -1,14 +1,11 @@
 <h1 align="center">✨ Muhammad Abdullah ✨</h1>
+<h2 align="center">✨ AI Enthusiastic Student | Tech Explorer | Lifelong Learner ✨</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=blue&center=true&vCenter=true&width=600&height=100&lines=Muhammad+Abdullah;AI+Enthusiastic+Student;Backend+Developer;Machine+Learning+Learner;Tech+Explorer;Lifelong+Learner" />
 </p>
 
 ---
-
-### 🚀 **AI Enthusiastic Student | Tech Explorer | Lifelong Learner**  
-
-
 
 > **"The best way to predict the future is to create it."**
 

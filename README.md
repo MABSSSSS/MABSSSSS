@@ -55,7 +55,7 @@
 ✔ Python Backend (Django, FastAPI, Flask)  
 ✔ Machine Learning, Deep Learning & AI  
 ✔ Database Optimization (PostgreSQL, SQLAlchemy, ORM)  
-✔ API Development & Deployment  
+  
 
 🌟 **I Love:**  
 ✔ Learning new AI concepts  
@@ -67,11 +67,8 @@
 ## 🎯 **Learning Never Stops!** 
 
 <p align="center">
-  <img src="![Learning](https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif)" width="500">
-</p>  
-
-> *"Stay hungry, stay foolish."* - **Steve Jobs**  
-
+  <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="500">
+</p>
 ---
 
 ## 📬 **Let's Connect!**  

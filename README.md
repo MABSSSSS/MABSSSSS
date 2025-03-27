@@ -3,7 +3,8 @@
 ## ✨ **Muhammad Abdullah**  
 ### 🚀 AI Enthusiastic Student|Tech Explorer | Lifelong Learner 
 
-> **"The best way to predict the future is to create it."** 
+> **"The best way to predict the future is to create it."**
+
 > **"Every expert was once a beginner – keep learning, keep growing!"**
 
 
@@ -63,9 +64,10 @@
 
 ---
 
-## 🎯 **Learning Never Stops!**  
+## 🎯 **Learning Never Stops!** 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/UqZBuE6sRSHxC/giphy.gif" width="500">
+  <img src="![Learning](https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif)" width="500">
 </p>  
 
 > *"Stay hungry, stay foolish."* - **Steve Jobs**  

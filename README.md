@@ -2,8 +2,8 @@
 
 ✨ **Muhammad Abdullah**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Muhammad+Abdullah;
-    AI+Enthusiast+%7C+Backend+Developer+%7C+ML+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=blue&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Muhammad+Abdullah;
+    Enthusiast+%7C+Backend+Developer+%7C+ML+Learner" />
 </p>
 
  

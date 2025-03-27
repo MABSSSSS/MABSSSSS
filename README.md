@@ -1,6 +1,21 @@
 
+<style>
+.glow {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  animation: glow 1.5s ease-in-out infinite alternate;
+}
 
-## ✨ **Muhammad Abdullah**  
+@keyframes glow {
+  from { text-shadow: 0 0 5px #fff, 0 0 10px #ff5733, 0 0 15px #ff5733; }
+  to { text-shadow: 0 0 10px #fff, 0 0 20px #ff4500, 0 0 30px #ff4500; }
+}
+</style>
+
+<p class="glow">Muhammad Abdullah</p>
+ 
 ### 🚀 AI Enthusiastic Student|Tech Explorer | Lifelong Learner 
 
 > **"The best way to predict the future is to create it."**

@@ -21,10 +21,19 @@ Here’s your personalized **GitHub README** based on your background and intere
 - **Python Based Backend Frameworks** 
 - **Data Structures & Algorithms (DSA) in C++**  
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+
 ## 💬 Ask me about  these concepts
 - **Python Backend Frameworks (Django, FastAPI, Flask)**  
 - **Machine Learning,Deep Learning & DIP**  
 - **Database Optimization (PostgreSQL, SQLAlchemy, ORM)**  
+
+## 📊 Machine Learning Animations  
+![AI Animation](https://media.giphy.com/media/UqZBuE6sRSHxC/giphy.gif)  
 
 
 ## 📫 How to reach me  

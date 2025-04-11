@@ -81,7 +81,7 @@
 🔗 **LinkedIn:** [Muhammad Abdullah](https://linkedin.com/in/muhammad-abdullah-51845a324)  
 💻 **GitHub:** [MABSSSSS](https://github.com/MABSSSSS)  
 
-📄 **Resume & Portfolio:** [View Here](https://drive.google.com/file/d/1kcObeGq6m_FRjvyObIZYxUICWLh6vZte/view?usp=sharing)  
+📄 **Resume & Portfolio:** [View Here](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto)  
 
 ---
 

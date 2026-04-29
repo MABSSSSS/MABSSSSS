@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Abdullah&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Junior%20AI%20Engineer%20%E2%80%94%20Agentic%20Systems%20%7C%20MLOps%20%7C%20Computer%20Vision&descAlignY=58&descSize=16&descColor=94a3b8" />
+  
   <br>
+  <!-- Professional Animated Typing Text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=50&lines=Building+Agentic+AI+Workflows;Architecting+MLOps+Pipelines;Bridging+AI+Research+%26+Production" alt="Typing SVG" />
+  <br>
+
   <a href="https://muhammadabdullah-portfolio-jpo63x193.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -12,6 +17,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=MABSSSSS&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
+
 <br>
 
 ```python
@@ -104,6 +110,11 @@ class AIEngineer:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MABSSSSS&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=38bdf8&currStreakLabel=e2e8f0" alt="GitHub Streak" width="49%" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MABSSSSS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=e2e8f0&title_color=38bdf8&langs_count=8" alt="Top Languages" width="49%" />
+</div>
+
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 10px;">
 </div>
 
 <div align="center">

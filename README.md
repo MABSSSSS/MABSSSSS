@@ -24,24 +24,24 @@
 
 <br><br>
 
-## 🚀 About Me & What I'm Doing
+##  About Me & What I'm Doing
 
 I am a high-performance **Junior AI Engineer** specializing in **Agentic Workflows**, **MLOps**, and **Backend Systems**. My passion lies in taking complex AI research and turning it into scalable, autonomous production systems.
 
-- 🔭 **Currently working on:** Production AI systems, RAG pipelines, and intelligent backend automation at **Revnix**.
-- 🎓 **Currently studying:** Bachelor's degree in Artificial Intelligence at PAFIAST (Final Year).
-- 🧠 **Currently learning:** Advanced Multi-Agent Orchestration, Edge AI Optimization, and Distributed architectures.
-- 💬 **Ask me about:** Python, FastAPI, YOLOv11, LangGraph, and how to build low-latency voice agents.
-- 📫 **How to reach me:** Shoot an email or connect on LinkedIn (links above!).
+-  **Currently working on:** Production AI systems, RAG pipelines, and intelligent backend automation at **Revnix**.
+-  **Currently studying:** Bachelor's degree in Artificial Intelligence at PAFIAST (Final Year).
+-  **Currently learning:** Advanced Multi-Agent Orchestration, Edge AI Optimization, and Distributed architectures.
+-  **Ask me about:** Python, FastAPI, YOLOv11, LangGraph, and how to build low-latency voice agents.
+-  **How to reach me:** Shoot an email or connect on LinkedIn (links above!).
 
 ---
 
-## 🏆 Elite Engineering Projects
+##  Elite Engineering Projects
 
 <table border="0">
   <tr>
     <td width="50%">
-      <h3>🛣️ Pavement Intelligence (FYP)</h3>
+      <h3> Pavement Intelligence (FYP)</h3>
       <p>A production-ready road diagnostic system engineered using <b>YOLOv11</b> and <b>TFLite</b> for high-accuracy, real-time computer vision analysis and automated reporting.</p>
       <a href="https://muhammadabdullah-portfolio-jpo63x193.vercel.app/">View Case Study →</a>
     </td>
@@ -53,12 +53,12 @@ I am a high-performance **Junior AI Engineer** specializing in **Agentic Workflo
   </tr>
   <tr>
     <td width="50%">
-      <h3>🎙️ Low-Latency Voice AI</h3>
+      <h3> Low-Latency Voice AI</h3>
       <p>Developed real-time voice agents integrated with telephony and WhatsApp using WebRTC, LiveKit, and ElevenLabs.</p>
       <a href="https://muhammadabdullah-portfolio-jpo63x193.vercel.app/">View Demo →</a>
     </td>
     <td width="50%">
-      <h3>⚙️ MLOps Pipelines</h3>
+      <h3> MLOps Pipelines</h3>
       <p>Built robust, reproducible ML pipelines featuring data versioning via DVC and experiment tracking via MLflow.</p>
       <a href="https://muhammadabdullah-portfolio-jpo63x193.vercel.app/">View Infrastructure →</a>
     </td>
@@ -67,7 +67,7 @@ I am a high-performance **Junior AI Engineer** specializing in **Agentic Workflo
 
 ---
 
-## 🛠️ Advanced Tech Stack & Tools
+##  Advanced Tech Stack & Tools
 
 ### Artificial Intelligence & Machine Learning
 <p>

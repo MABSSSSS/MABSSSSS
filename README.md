@@ -12,9 +12,10 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=MABSSSSS&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-<br><br>
-whoami
-pythonclass AIEngineer:
+<br>
+
+```python
+class AIEngineer:
     name       = "Muhammad Abdullah"
     location   = "Haripur, Pakistan"
     role       = "Junior AI Engineer @ Revnix"
@@ -34,8 +35,10 @@ pythonclass AIEngineer:
     ]
 
     contact = "cabdullahbokan@gmail.com"
+```
 
-🚀 Featured Projects
+## 🚀 Featured Projects
+
 <table border="0">
   <tr>
     <td width="50%">
@@ -67,8 +70,9 @@ pythonclass AIEngineer:
   </tr>
 </table>
 
-🛠️ Advanced Tech Stack & Tools
-Artificial Intelligence & Machine Learning
+## 🛠️ Advanced Tech Stack & Tools
+
+### Artificial Intelligence & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -77,14 +81,16 @@ Artificial Intelligence & Machine Learning
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
   <img src="https://img.shields.io/badge/YOLOv11-00FFAB?style=for-the-badge&logoColor=black">
 </p>
-Backend & Databases
+
+### Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
-DevOps & MLOps
+
+### DevOps & MLOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -92,7 +98,7 @@ DevOps & MLOps
   <img src="https://img.shields.io/badge/DVC-13A2DF?style=for-the-badge&logo=data-version-control&logoColor=white">
 </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MABSSSSS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=e2e8f0&title_color=38bdf8&icon_color=6366f1&count_private=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MABSSSSS&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=38bdf8&currStreakLabel=e2e8f0" alt="GitHub Streak" width="49%" />

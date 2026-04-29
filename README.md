@@ -35,7 +35,6 @@ I am a high-performance **Junior AI Engineer** specializing in **Agentic Workflo
 -  **How to reach me:** Shoot an email or connect on LinkedIn (links above!).
 
 ---
-
 ##  Elite Engineering Projects
 
 <table border="0">
@@ -43,29 +42,28 @@ I am a high-performance **Junior AI Engineer** specializing in **Agentic Workflo
     <td width="50%">
       <h3> Pavement Intelligence (FYP)</h3>
       <p>A production-ready road diagnostic system engineered using <b>YOLOv11</b> and <b>TFLite</b> for high-accuracy, real-time computer vision analysis and automated reporting.</p>
-      <a href="https://muhammadabdullah-portfolio-jpo63x193.vercel.app/">View Case Study →</a>
+      <a href="https://github.com/MABSSSSS/Roadcrackdetection" target="_blank">View Source Code →</a>
     </td>
     <td width="50%">
-      <h3>♾️ LangGraph Agentic Orchestration</h3>
+      <h3> LangGraph Agentic Orchestration</h3>
       <p>Architected complex, stateful multi-agent systems capable of cyclic reasoning, autonomous task execution, and dynamic routing using LangGraph.</p>
-      <a href="https://muhammadabdullah-portfolio-jpo63x193.vercel.app/">View Architecture →</a>
+      <a href="https://github.com/MABSSSSS/Langgraphs" target="_blank">View Source Code →</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3> Low-Latency Voice AI</h3>
       <p>Developed real-time voice agents integrated with telephony and WhatsApp using WebRTC, LiveKit, and ElevenLabs.</p>
-      <a href="https://muhammadabdullah-portfolio-jpo63x193.vercel.app/">View Demo →</a>
+      <a href="https://github.com/MABSSSSS/voiceagent" target="_blank">View Source Code →</a>
     </td>
     <td width="50%">
       <h3> MLOps Pipelines</h3>
       <p>Built robust, reproducible ML pipelines featuring data versioning via DVC and experiment tracking via MLflow.</p>
-      <a href="https://muhammadabdullah-portfolio-jpo63x193.vercel.app/">View Infrastructure →</a>
+      <a href="https://github.com/MABSSSSS/MLOPS" target="_blank">View Source Code →</a>
     </td>
   </tr>
 </table>
 
----
 
 ##  Advanced Tech Stack & Tools
 
